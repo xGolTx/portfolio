@@ -1,0 +1,6 @@
+<svg width="540" height="290" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 290">
+  <rect width="540" height="190" fill="skyblue"/>
+  <rect width="540" height="100" y="190" fill="yellow"/>
+  <polygon points="90,240 390,240 240,70" fill="goldenrod"/>
+  <polygon points="250,260 450,260 350,150" fill="darkgoldenrod"/>
+</svg>

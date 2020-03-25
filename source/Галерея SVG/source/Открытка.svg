@@ -1,0 +1,25 @@
+<svg width="360" height="500" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 500">
+
+  <style>
+    .tex {font: italic 20px serif; fill: red;}
+  </style>
+<rect width='320' height='460' fill='lemonchiffon' x='20' y='20' rx='20'/>
+
+<circle r='100' cx='150' cy='170' fill='crimson'/>
+<polygon points='140,280 160,280 150,270' fill='crimson'/>
+<line x1='155' y1='280' x2='160' y2='300' stroke="brown" stroke-width="1"/>
+<line x1='160' y1='300' x2='145' y2='330' stroke="brown" stroke-width="1"/>
+<line x1='145' y1='330' x2='160' y2='360' stroke="brown" stroke-width="1"/>
+<line x1='160' y1='360' x2='145' y2='390' stroke="brown" stroke-width="1"/>
+ <line x1='145' y1='390' x2='165' y2='420' stroke="brown" stroke-width="1"/>
+
+<ellipse rx='60' ry='80' cx='250' cy='220' fill='gold'/>
+<polygon points='240,310 250,300 260,310' fill='gold'/>
+<line x1='255' y1='310' x2='260' y2='330' stroke="brown" stroke-width="1"/>
+<line x1='260' y1='330' x2='245' y2='360' stroke="brown" stroke-width="1"/>
+<line x1='245' y1='360' x2='260' y2='390' stroke="brown" stroke-width="1"/>
+<line x1='260' y1='390' x2='245' y2='420' stroke="brown" stroke-width="1"/>
+<line x1='245' y1='420' x2='260' y2='450' stroke="brown" stroke-width="1"/>
+
+<text x='100' y='460' class='tex'> С праздником!</text>
+</svg>
