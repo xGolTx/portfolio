@@ -29,6 +29,7 @@ article {
 
 li {
 color: #ffffff;
+list-style-type: none;
 }
 
 footer {
