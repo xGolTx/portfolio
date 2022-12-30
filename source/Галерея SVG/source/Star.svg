@@ -1,0 +1,12 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <polyline points='50,20 100,180 150,20 20,120 180,120 50,20 100,180' stroke='red' stroke-width='5' fill='black'/>
+ <!-- 
+  <circle r="20" cx="100" cy="92" stroke="red" stroke-width='5'></circle>
+  <circle r="10" cx="100" cy="135" stroke="red" stroke-width='5'></circle>
+  <circle r="10" cx="62" cy="106" stroke="red" stroke-width='5'></circle>
+  <circle r="10" cx="138" cy="106" stroke="red" stroke-width='5'></circle>
+  <circle r="10" cx="78" cy="60" stroke="red" stroke-width='5'></circle>
+  <circle r="10" cx="123" cy="60" stroke="red" stroke-width='5'></circle>
+  <circle r="10" cx="100" cy="92" stroke="red" stroke-width='5'></circle>
+  -->
+</svg>
