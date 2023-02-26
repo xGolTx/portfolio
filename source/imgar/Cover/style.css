@@ -1,0 +1,135 @@
+h1 {
+  font-size: 24px;
+  text-transform: uppercase;
+  font-style: italic;
+  font-family: 'William', serif;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-top: 34px;
+  font-weight: normal;
+  color: white;
+}
+
+h2 {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-family: 'Inter', sans-serif;
+  margin-top: 0;
+  margin-bottom: 24px;
+  color: white;
+}
+
+img {
+  width: 230px;
+  margin-bottom: 50px;
+}
+
+p {
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+}
+.div {
+  background-image: linear-gradient(-20deg, #d558c8 0%, #24d292 100%);
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  margin: auto;
+}
+h3 {
+  font-family: 'William', serif;
+margin: 0;
+font-size: 15px;
+text-transform: uppercase;
+line-height: 18px;
+font-weight: normal;
+  color: white;
+}
+body {
+ background-image: linear-gradient(to top, #209cff 0%, #68e0cf 100%);
+ background-blend-mode: screen, overlay;
+}
+
+.container {
+  max-width: 928px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.button {
+  padding: 6px 20px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 20px;
+  background-color: #0096A7;
+  color: #ffffff;
+  box-shadow: 0px 8px 16px rgba(50, 6, 92, 0.86);
+  cursor: pointer;
+  transition: background-color 0.15s;
+  border: none;
+}
+
+.button:hover {
+  background-color: #30848d;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.but {
+text-align: center;
+margin-bottom: 10px;
+}
+
+.more {
+  margin-top: 20px;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 107px;
+  
+}
+
+li {
+  list-style-type:none;
+  margin-right: 70px;
+}
+
+.page-footer {
+  padding: 40px 0;
+  background-image: linear-gradient(to top, #209cff 0%, #005bea 100%);
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  text-align: right;
+
+  margin-top: 5%;
+  
+}
+
+.page-footer a {
+  margin-left: 56px;
+  color: #ffffff;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.footer-email {
+  padding-left: 30px;
+  background-image: url("icon-email-footer.svg");
+}
+
+.footer-phone {
+  padding-left: 25px;
+  background-image: url("icon-phone-footer.svg");
+}
