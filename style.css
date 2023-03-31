@@ -26,6 +26,19 @@ textarea {
     display: flex;
     flex-direction: column;
   }
+
+  .button {
+    padding: 6px 20px;
+    display: inline-block;
+    vertical-align: baseline;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 15px;
+    transition: background-color 100ms, box-shadow 100ms;  
+  }
 }
 
 @media screen and (max-width : 800px) {
@@ -36,6 +49,19 @@ textarea {
   .page-footer a {
     margin-left: 28px;
   }
+
+  .button {
+    padding: 6px 20px;
+    display: inline-block;
+    vertical-align: baseline;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 15px;
+    transition: background-color 100ms, box-shadow 100ms;
+  }
 }
 
 @media screen and (max-width : 1024px) {
@@ -45,6 +71,19 @@ textarea {
 
   .page-footer a {
     margin-left: 56px;
+  }
+
+  .button {
+    padding: 6px 20px;
+    display: inline-block;
+    vertical-align: baseline;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 15px;
+    transition: background-color 100ms, box-shadow 100ms;
   }
 }
 
