@@ -19,20 +19,31 @@ textarea {
 }
 
 @media screen and (max-width : 1024px) {
-  .container{
+  .page-header{
     font-size: 16px;
+  }
+
+  .page-footer a {
+    margin-left: 56px;
   }
 }
 
 @media screen and (max-width : 800px) {
-  .container{
+  .page-header{
     font-size: 32px;
+  }
+
+  .page-footer a {
+    margin-left: 28px;
   }
 }
 
 @media screen and (max-width : 420px) {
-  .container{
+  .page-header{
     font-size: 1.5em;
+  }
+  .page-footer a {
+    margin-left: 14px;
   }
 }
 
