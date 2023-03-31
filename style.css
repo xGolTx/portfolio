@@ -43,7 +43,8 @@ textarea {
     font-size: 1.5em;
   }
   .page-footer a {
-    margin-left: 14px;
+    display: flex;
+    flex-direction: column;
   }
 }
 
